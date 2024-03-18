@@ -24,10 +24,108 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```<html>
+<head>
+     <title>Slot Timetable</title>
+</head>
+<body>
+<center>
+<img src="/static/logo.png" height="100" width"550">
+</center>
+<br>
+     <table align="center" width="550" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+     <caption><b>Time Table</b></caption>
+<tr align="center">
+	<th bgcolor="red">Day/Time</th>
+	<th bgcolor="red">Monday</th>
+	<th bgcolor="red">Tuesday</th>
+	<th bgcolor="red">Wednesday</th>
+	<th bgcolor="red">Thursday</th>
+ 	<th bgcolor="red">Friday</th>
+</tr>
+<tr align="center">
+	<th bgcolor="blue">8-10</th>
+	<td>Maths</td>
+	<td>BEEE</td>
+	<td>FWAD</td>
+	<td >Free Slot</td>
+    <td>BEEE</td>
+</tr>
+<tr align="center">
+	<th bgcolor="blue">10-12</th>
+	<td>FREE SLOT</td>
+	<td>FWAD</td>
+	<td>DBMS</td>
+    <td>COMPILER DESIGN</td>
+    <td>FREE SLOT</td>
 
+</tr>
+<tr>
+	<th bgcolor="blue">12-1</th>
+	<td colspan="5" align="center">L U N C H</td>
+</tr>
+<tr align="center">
+	<th bgcolor="blue">1-3</th>
+	<td>FWAD</td>
+	<td>DBMS</td>
+	<td>C</td>
+    <td>MATHS</td>
+    <td>FREE SLOT</td>
+
+</tr>
+<tr align="center">
+	<th bgcolor="blue">3-5</th>
+	<td colspan="3">FREE SLOT</td>
+	<td>FREE SLOT</td>
+    <td>FREE SLOT</td>
+</tr>
+</table>
+</br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>S. No.</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">19MA218</td>
+<td>MATHS</td>
+</tr>
+<tr>
+<td align="center">2.</td>
+<td align="center">19AI414</td>
+<td>Fundamentals Of Web Application Development</td>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">19CS404</td>
+<td>Database Management System and Its Application</td>
+</tr>
+<tr>
+<td align="center">4.</td>
+<td align="center">19EE305</td>
+<td>BASIC ELECTICAL,ELECTRONICS AND MEASURMENT ENGINEERING </td>
+</tr>
+<tr>
+<td align="center">5.</td>
+<td align="center">19CS409</td>
+<td>COMPILER DESIGND</td>
+</tr>
+<tr>
+    <td align="center">6.</td>
+    <td align="center">19CS302</td>
+    <td>C PROGRAMMING </td>
+    </tr>
+</table>
+</body>
+</html>
+```
 
 ## OUTPUT
+![image](https://github.com/magesh534/slot/assets/135577936/016dd979-1807-4904-bdb3-f46fd839a74d)
 
+![image](https://github.com/magesh534/slot/assets/135577936/879f7151-40af-49a0-b78b-13796d143d5c)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
