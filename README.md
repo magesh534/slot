@@ -126,7 +126,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![image](https://github.com/Tharun-1000/slot/assets/135952958/e1678bd8-8af4-412a-bc4b-1a2f52f85fee)
+![WhatsApp Image 2024-03-20 at 09 14 20_6b4e4ceb](https://github.com/Tharun-1000/slot/assets/135577936/74b5d19e-9f19-49b8-8ec0-fa80e01ef377)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
