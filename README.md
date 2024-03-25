@@ -122,7 +122,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![web 3](https://github.com/magesh534/slot/assets/135577936/f7a4a1d3-ed89-42cd-940f-64e77c1ed4bf)
+![web ex 3](https://github.com/magesh534/slot/assets/135577936/5492fa7d-acc4-4ebd-974d-e0d3ea0891b4)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
